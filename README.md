@@ -3,11 +3,19 @@
 ### I'm a Junior Front-End Developer from Milan :it:
 ---
 
-:smiley: About me:
+#### :smiley: About me:
 - currently learning software development :computer:
 - looking for the right company in the IT world :briefcase:
 - always ready for new challenges :bar_chart:
 - blockchain enthusiast :paperclips:
+---
+
+#### :open_file_folder: My competencies:
+Inline-style: 
+![alt text](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg)
+
+
+
 <!--
 **LeonardoCahuas/LeonardoCahuas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
