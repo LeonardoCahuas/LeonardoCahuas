@@ -11,8 +11,8 @@
 ---
 
 #### :open_file_folder: My competencies:
-Inline-style: 
-![alt text](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg)
+ 
+[logo](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg)
 
 
 
