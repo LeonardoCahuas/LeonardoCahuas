@@ -1,6 +1,6 @@
-### Hi there I'm Leonardo Cahuas👋
+#H1 Hi there I'm Leonardo Cahuas👋
 
-I'm a Junior Front-End Developer from Milan :it:
+#H3 I'm a Junior Front-End Developer from Milan :it:
 
 :smiley: About me:
 - currently learning software development :computer:
