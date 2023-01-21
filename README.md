@@ -11,7 +11,7 @@
 ---
 
 #### :open_file_folder: My competencies:
-<img src="https://user-images.githubusercontent.com/114410356/213879940-ccae4ac4-1be6-42fe-adf9-a22596df150b.svg" width=1ch height=1ch>
+<img src="https://user-images.githubusercontent.com/114410356/213879940-ccae4ac4-1be6-42fe-adf9-a22596df150b.svg" width=20px height=20px>
 ![typescript](https://user-images.githubusercontent.com/114410356/213879940-ccae4ac4-1be6-42fe-adf9-a22596df150b.svg)
 ![javascript](https://user-images.githubusercontent.com/114410356/213879962-32b7d53e-709e-4713-b3d9-caf3c2f851c4.svg)
 ![html](https://user-images.githubusercontent.com/114410356/213879966-f67c3e62-89b5-4144-ab7f-e58ab4b22fed.svg)
