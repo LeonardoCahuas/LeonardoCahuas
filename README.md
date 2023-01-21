@@ -1,6 +1,6 @@
 ### Hi there I'm Leonardo Cahuas👋
 
-
+I'm a Junior Front-End Developer from Milan :it:
 <!--
 **LeonardoCahuas/LeonardoCahuas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
