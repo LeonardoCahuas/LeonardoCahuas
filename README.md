@@ -31,7 +31,7 @@
 #### :pushpin: My links:
 - <a href="https://github.com/LeonardoCahuas">Github</a>
 - <a href="https://www.linkedin.com/in/leonardo-cahuas-867162261/">LinkedIn</a>
-- <a href="leonardo.cahuas7@gmail.com">E-mail</a>
+- <a href="">leonardo.cahuas7@gmail.com</a>
 <!--
 **LeonardoCahuas/LeonardoCahuas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
