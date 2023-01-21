@@ -22,6 +22,13 @@
 ---
 #### :white_check_mark: Team Projects:
 - <a href="https://github.com/LeonardoCahuas/Electronic-Arts">Electronic Arts</a>
+- <a href="https://github.com/smazza98/Netflix-Clone-Project">Netflix</a>
+
+
+---
+#### :pushpin: My links:
+- <a href="https://github.com/LeonardoCahuas">Github</a>
+- <a href="https://www.linkedin.com/in/leonardo-cahuas-867162261/">LinkedIn</a>
 <!--
 **LeonardoCahuas/LeonardoCahuas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
