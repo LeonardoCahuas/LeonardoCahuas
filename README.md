@@ -22,9 +22,9 @@
 - <img src="https://user-images.githubusercontent.com/114410356/213879983-9ce11adb-3bac-4d3e-ba17-3caaa89089f1.svg" width=40px height=40px> Bootstrap
 - <img src="https://user-images.githubusercontent.com/114410356/213879971-025f2fcc-6d49-406a-9194-56a660f74fdd.svg" width=40px height=40px> Git
 ---
-#### :white_check_mark: Team Projects:
-- <a href="https://github.com/LeonardoCahuas/Electronic-Arts">Electronic Arts</a>
-- <a href="https://github.com/smazza98/Netflix-Clone-Project">Netflix</a>
+#### :white_check_mark: Projects:
+- <a href="velox-srl.web.app/">Velox Srl</a>
+- <a href="https://www.siva24.it">Siva24</a>
 
 
 ---
