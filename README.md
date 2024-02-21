@@ -38,11 +38,6 @@
 
 -<img src="https://cdn.simpleicons.org/angular/000/fff" width=40px height=40px> Angular
 
--<img src=![Java](https://simpleicons.org/icons/java.svg) width=40px height=40px> Java
-
--![C#](https://simpleicons.org/icons/dotnet.svg) C#
-
--<img src="https://simpleicons.org/icons/MySql" width="40" height="40"> SQL
 ---
 #### :white_check_mark: Projects:
 - <a href="velox-srl.web.app/">Velox Srl</a>
