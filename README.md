@@ -36,7 +36,7 @@
 
 -<img src="https://user-images.githubusercontent.com/114410356/213879971-025f2fcc-6d49-406a-9194-56a660f74fdd.svg" width=40px height=20px> Git
 
--<img src="[https://cdn.simpleicons.org/angular](https://cdn.simpleicons.org/angular/000/fff)" width=40px height=40px> Angular
+-<img src="https://cdn.simpleicons.org/angular/000/fff" width=40px height=40px> Angular
 
 -<img src=![Java](https://simpleicons.org/icons/java.svg) width=40px height=40px> Java
 
