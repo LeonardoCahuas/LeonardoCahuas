@@ -27,10 +27,12 @@ Today I work as a **freelance full-stack developer** and I'm one of the **co-fou
 | Project | Description |
 |---|---|
 | [Siva24](https://siva24.com) | Co-founded in 2025. Full-stack platform — architecture, frontend, backend, and deployment. |
-| [Cashmere Studio Milano](https://cashmerestudiomilano.it) | Full-stack project including web platform and mobile app for a Milan-based luxury fashion studio. |
+| [Cashmere Studio Milano](https://cashmerestudiomilano.it) | Full-stack project including web platform and mobile app for a Milan-based recording studio. |
 | [RS Company SRL](https://rscompanysrl.it) | Corporate web solution for a structured business client. |
 | [Vital Games Digital](https://vitalgamesdigital.com) | Digital platform for the gaming industry. |
 | [Giunima Auto](https://giunimaauto.it) | Web solution for an automotive business. |
+
+*These are just a few — I've shipped many more projects across different industries and tech stacks.*
 
 ---
 
