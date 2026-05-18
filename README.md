@@ -1,52 +1,53 @@
-# Hi there I'm Leonardo Cahuas👋
-
-### I'm a Junior Front-End Developer from Milan :it:
-
-###### Expanding my horizons in the IT world... :bulb:
----
-
-#### :smiley: About me:
--Transitioned to freelance to explore diverse projects :computer:
-
--Specializing in full-stack applications with React, Angular, Java, C#, and SQL :gear:
-
--Currently learning and deepening my knowledge in software development :desktop_computer:
-
--Continuously looking for the right opportunities and challenges in the IT world :briefcase:
-
--Blockchain enthusiast and always ready for new challenges :bar_chart:
+# Hi, I'm Leonardo Cahuas 👋
+### Full-Stack Developer · Milan, Italy 🇮🇹
 
 ---
 
-#### :open_file_folder: My competencies:
+I got into development the way most passionate developers do — on my own, out of genuine curiosity. Over the years I taught myself the fundamentals, built projects that actually shipped, landed a role at **Faber System (Zucchetti Group)** where I worked in enterprise-level environments, and then went independent.
 
--<img src="https://user-images.githubusercontent.com/114410356/213879966-f67c3e62-89b5-4144-ab7f-e58ab4b22fed.svg" width=40px height=20px> HTML
-
--<img src="https://user-images.githubusercontent.com/114410356/213879972-b549b14c-7e4f-40f3-85f7-d4c25e52dada.svg" width=40px height=20px> CSS
-
--<img src="https://user-images.githubusercontent.com/114410356/213879962-32b7d53e-709e-4713-b3d9-caf3c2f851c4.svg" width=40px height=20px> JavaScript
-
--<img src="https://user-images.githubusercontent.com/114410356/213879974-54d0a315-c90c-4882-8d9e-0c10c904f7b5.svg" width=40px height=20px> React.js
-
--<img src="https://user-images.githubusercontent.com/114410356/213879940-ccae4ac4-1be6-42fe-adf9-a22596df150b.svg" width=40px height=20px> TypeScript
-
--<img src="https://user-images.githubusercontent.com/114410356/213879975-3b08fc53-5529-41d8-a620-ba2768bd4ddf.svg" width=40px height=20px> Node.js
-
--<img src="https://user-images.githubusercontent.com/114410356/213879983-9ce11adb-3bac-4d3e-ba17-3caaa89089f1.svg" width=40px height=20px> Bootstrap
-
--<img src="https://user-images.githubusercontent.com/114410356/213879971-025f2fcc-6d49-406a-9194-56a660f74fdd.svg" width=40px height=20px> Git
-
--<img src="https://cdn.simpleicons.org/angular/000/fff" width=40px height=40px> Angular
+Today I work as a **freelance full-stack developer** and I'm one of the **co-founders of [Siva24](https://siva24.com)** — a platform I helped build from the ground up.
 
 ---
-#### :white_check_mark: Projects:
-- <a href="velox-srl.web.app/">Velox Srl</a>
-- <a href="https://www.siva24.it">Siva24</a>
 
+### 🧠 What I work with
+
+**Frontend**
+`React.js` `React Native` `Angular` `TypeScript` `Next.js` `HTML` `CSS` `Bootstrap`
+
+**Backend**
+`Node.js` `Java` `C#` `SQL` `REST APIs`
+
+**Other**
+`Git` `Blockchain` `Mobile (iOS & Android via React Native)`
 
 ---
-#### :pushpin: My links:
-- <a href="https://github.com/LeonardoCahuas">Github</a>
-- <a href="https://www.linkedin.com/in/leonardo-cahuas-867162261/">LinkedIn</a>
-- <a href="">leonardo.cahuas7@gmail.com</a>
 
+### 🚀 Selected Work
+
+| Project | Description |
+|---|---|
+| [Siva24](https://siva24.com) | Co-founded in 2025. Full-stack platform — architecture, frontend, backend, and deployment. |
+| [Cashmere Studio Milano](https://cashmerestudiomilano.it) | Full-stack project including web platform and mobile app for a Milan-based luxury fashion studio. |
+| [RS Company SRL](https://rscompanysrl.it) | Corporate web solution for a structured business client. |
+| [Vital Games Digital](https://vitalgamesdigital.com) | Digital platform for the gaming industry. |
+| [Giunima Auto](https://giunimaauto.it) | Web solution for an automotive business. |
+
+---
+
+### 🧭 My path
+
+- 📚 Studied online for years, driven by passion — no bootcamps, no shortcuts
+- 🏢 Worked at **Faber System — Zucchetti Group**, enterprise software development
+- 💻 Went freelance to take full ownership of projects and clients
+- 🤝 Co-founded **Siva24** in 2025, currently active and growing
+
+---
+
+### 📬 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-cahuas-867162261/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leonardo.cahuas7@gmail.com)
+
+---
+
+*Always open to interesting projects and the right challenges.*
